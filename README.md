@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is a json api rails app for kittens. It was made as part of <a href="www.theodinproject.com">The Odin Project</a>.
+You can make json index and show calls to get back json kitten objects.
+It is not wise to put this in production without more security features.
